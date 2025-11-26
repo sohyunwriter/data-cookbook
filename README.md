@@ -1,23 +1,28 @@
-# ai-project
+# Data-cookbook
 
 Data / AI 취준생들을 위한 Cookbook
 
-#### 문의는 카카오톡 sohyunwriter 로 주세요
-#### 블로그 : https://sohyunwriter.tistory.com/
-#### 오카방(Data/AI 직무 정보방) : https://open.kakao.com/o/gCCXoU0g
-1.자료 링크 모음 : 취준과 관련된 도움이 되는 자료를 보고 싶다면 아래 게시글 링크 참고
-➡️ sohyunwriter - Data / AI 직무 취준 마스터 - https://sohyunwriter.tistory.com/m/214
+### telco-customer-churn
+- 정형 데이터 분류 모델 개발 (이탈 예측)
+- (데이터셋) https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data    
+- (코드)
+ 1) (update)_코테연습_telco_customer_churn.ipynb   
+ 2) baseline_정형데이터분류_telco_customer_churn_EDA부터분류모델개발까지.ipynb
 
-2.(소현챗) 소현 멘토와 1:1 줌 미팅 (서류첨삭, 모의면접, 고민상담 등)
-➡️ https://calendar.app.google/2ML6m8SmZdoGanBD7
+### 이커머스 고객 세분화 분석
+- RFM 분석, 클러스터링 등 이커머스 데이터 DA 직무 연습용
+- (데이터셋) https://dacon.io/competitions/official/236222/overview/description
+- (코드) RFM분석.ipynb
 
-3.(Zoom) 현직자 Zoom 초대 (Zoom 참여 링크는 현재 오카방 > 일정 탭 참고)
-➡️ Data/AI 직무 정보방 - Zoom History (그동안 열린 줌들, '25.09.24 Updated) - https://sohyunwriter.tistory.com/m/229
+### 크롤링
+- 네이버 뉴스 기사 크롤링해 제목 EDA
+- (코드) 실습예제_크롤링_네이버뉴스_basic.ipynb
 
-4.(스터디) 취준 스터디 운영 (경험기술서 스터디, 데이터분석 과제 템플릿 스터디 등)
-➡️ https://docs.google.com/forms/d/1iGleoc2Zpl0zoMgRl7krzJ_1YiEIfyBkM5ss0g05mjM/edit
-
-5.(오픈소스플젝) 채용공고 이메일 알림 서비스 Job Finder 오픈소스 플젝 베타테스트 진행중 (~10/5)
-➡️ Job Finder란? https://aicrews-jobfinder.notion.site/jobfinder
-**OCR 등 개발할 거리가 많아서 10월 중순쯤에 2기 모집 예정입니다. 
-
+## 각종 자료 링크
+- 문의는 카카오톡 sohyunwriter 로 주세요
+- 블로그 : https://sohyunwriter.tistory.com/
+- 오카방(Data/AI 직무 정보방) : https://open.kakao.com/o/gCCXoU0g
+- 오카방(Data/AI Junior 고민토론방) : https://open.kakao.com/o/pDNvgiWh
+- (오카방 콘텐츠) 취준 자료 링크 모음: https://sohyunwriter.tistory.com/m/214
+- (오카방 콘텐츠) 현직자 Zoom 초대 History : https://sohyunwriter.tistory.com/m/229
+- (오카방 콘텐츠) 오픈소스 프로젝트 Job-Finder : https://aicrews-jobfinder.notion.site/jobfinder
